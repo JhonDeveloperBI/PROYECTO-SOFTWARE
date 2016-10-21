@@ -1,8 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Softwarebasedatos" id="A84AC99C-E7E2-3D02-4605-C2C0761AA2DA" version="3.5">
-<createdBy>Jhon Jaime</createdBy>
-<createdTime>2016-10-09 21:56:34 UTC</createdTime>
-<ownerDesignName>BaseDatosTransacionTiendasbi</ownerDesignName>
-<capitalNames>false</capitalNames>
-<designId>A84AC99C-E7E2-3D02-4605-C2C0761AA2DA</designId>
-</OSDM_Design>

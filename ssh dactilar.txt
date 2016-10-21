@@ -1,9 +1,0 @@
-Huellas digitales del Certificado:
-         MD5: C3:38:4A:50:6F:67:FF:35:06:CB:D1:22:CA:A3:60:D1
-         SHA1: B6:30:E9:F5:2D:B9:B3:FC:D5:3C:7D:B2:ED:4E:21:A4:E0:E8:89:DA
-         SHA256: A4:37:39:B6:37:3B:01:F2:5B:0E:ED:93:54:5C:5D:26:93:44:B4:1F:A6:63:B8:9A:54:95:86:06:AA:20:CB:97
-         Nombre del Algoritmo de Firma: SHA256withRSA
-         Versión: 3
-
-
-clave api AIzaSyD2gi3FryVVjRS8qrJAxSQ2hd-jyjnL8Lg
