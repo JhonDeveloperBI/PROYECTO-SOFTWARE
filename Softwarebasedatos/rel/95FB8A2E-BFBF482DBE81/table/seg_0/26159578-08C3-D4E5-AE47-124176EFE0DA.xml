@@ -1,0 +1,107 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="26159578-08C3-D4E5-AE47-124176EFE0DA" name="Establecimientos">
+<createdBy>Jhon Jaime</createdBy>
+<createdTime>2016-10-17 01:18:16 UTC</createdTime>
+<ownerDesignName>Softwarebasedatos</ownerDesignName>
+<ordsAlias>table_15</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="idEstablecimiento" id="8E008C97-A577-8A84-E07E-D522B6889FCF">
+<createdBy>Jhon Jaime</createdBy>
+<createdTime>2016-10-17 01:19:19 UTC</createdTime>
+<ownerDesignName>Softwarebasedatos</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="nombre" id="8B590E30-AC7E-C1F1-D2B5-D2B8DE1E69DF">
+<createdBy>Jhon Jaime</createdBy>
+<createdTime>2016-10-17 01:20:00 UTC</createdTime>
+<ownerDesignName>Softwarebasedatos</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>255</dataTypeSize>
+<ownDataTypeParameters>255,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="direccion" id="0F776B29-CBEE-C4B6-B58F-A18A74378146">
+<createdBy>Jhon Jaime</createdBy>
+<createdTime>2016-10-17 01:20:17 UTC</createdTime>
+<ownerDesignName>Softwarebasedatos</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>255</dataTypeSize>
+<ownDataTypeParameters>255,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="telefono" id="62EF008E-AD94-15CF-1C2C-078EE07206D1">
+<createdBy>Jhon Jaime</createdBy>
+<createdTime>2016-10-17 01:20:46 UTC</createdTime>
+<ownerDesignName>Softwarebasedatos</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>255</dataTypeSize>
+<ownDataTypeParameters>255,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="descripcion" id="60C47CFF-055B-2690-3C69-C51F3BD35B0E">
+<createdBy>Jhon Jaime</createdBy>
+<createdTime>2016-10-17 01:21:14 UTC</createdTime>
+<ownerDesignName>Softwarebasedatos</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>255</dataTypeSize>
+<ownDataTypeParameters>255,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="UbicacionGps" id="04F3F8EE-ACAD-4CB5-3A0F-81B57EA42FA5">
+<createdBy>Jhon Jaime</createdBy>
+<createdTime>2016-10-17 01:26:29 UTC</createdTime>
+<ownerDesignName>Softwarebasedatos</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>255</dataTypeSize>
+<ownDataTypeParameters>255,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="linkImagen" id="11F2617F-2525-FCF3-8E70-0851D8AD9335">
+<createdBy>Jhon Jaime</createdBy>
+<createdTime>2016-10-23 19:08:49 UTC</createdTime>
+<ownerDesignName>Softwarebasedatos</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>255</dataTypeSize>
+<ownDataTypeParameters>255,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="092D9A20-62EA-9D4C-AB1C-726D0FD5A1EA" name="Establecimientos_PK">
+<createdBy>Jhon Jaime</createdBy>
+<createdTime>2016-10-17 01:31:05 UTC</createdTime>
+<ownerDesignName>Softwarebasedatos</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="8E008C97-A577-8A84-E07E-D522B6889FCF"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

@@ -1,0 +1,14 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="99D9344A-25F2-ACFC-F386-A15C06D282D6" containerWithKeyObject="337828D0-80D8-E000-592B-EB18A2FABA99" localFKIndex="CE4E4A20-D3FB-8B7B-89E4-453BF6AC529E" name="Calificacion_Administrador_FK">
+<createdBy>Jhon Jaime</createdBy>
+<createdTime>2016-10-22 17:51:18 UTC</createdTime>
+<ownerDesignName>Softwarebasedatos</ownerDesignName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>2474C3E7-A33D-1CE1-2D68-1079EFD08B51</referredTableID>
+<keyObject>CEC03FBE-4F42-5D31-AAF8-81059D577E9E</keyObject>
+<referredKeyID>CEC03FBE-4F42-5D31-AAF8-81059D577E9E</referredKeyID>
+<mandatory>true</mandatory>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>
